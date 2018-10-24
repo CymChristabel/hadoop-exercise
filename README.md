@@ -10,6 +10,6 @@ This is a simple twisted version of word count in MapReduce example code. It cre
 
 The output file is in this format
     
-    Word: ([file name]:[count])+
+    [word]: ([file name]:[count])+
 
 The code is tested on GCP and sample output is in index folder
